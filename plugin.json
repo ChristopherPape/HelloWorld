@@ -4,6 +4,6 @@
     "description" : "Mein erstes Plugin" ,
     "namespace" : "HelloWorld" ,
     "author" : "ChristopherPape" ,
-    "type" : "Templates" ,
+    "type" : "template" ,
     "serviceProvider"   :null
 }
