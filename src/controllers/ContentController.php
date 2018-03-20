@@ -14,6 +14,7 @@ class ContentController extends Controller{
         return $twig->render('HelloWorld :: content.hello');
         #return $twig->render('HelloWorld::TEMPLATE');
 
+
     }
 
 }
