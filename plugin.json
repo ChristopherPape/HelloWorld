@@ -1,6 +1,6 @@
 {
-    "version" : "0.0.1",
-    "name" : "HalloWorld" ,
+    "version" : "0.0.2",
+    "name" : "HelloWorld" ,
     "description" : "Mein erstes Plugin" ,
     "namespace" : "HelloWorld" ,
     "author" : "ChristopherPape" ,
