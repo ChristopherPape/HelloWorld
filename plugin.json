@@ -2,7 +2,7 @@
     "version" : "0.0.1",
     "name" : "Hallo World" ,
     "description" : "Mein erstes Plugin" ,
-    "namespace" : "HelloWorld" ,
+    "namespace" : "HelloWorld\\Providers\\HelloWorldServiceProvider" ,
     "author" : "Christopher Pape" ,
     "type" : "Templates" ,
     "serviceProvider"   :null
