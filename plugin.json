@@ -1,8 +1,8 @@
 {
     "version" : "0.0.1",
-    "name" : "Hallo World" ,
+    "name" : "HalloWorld" ,
     "description" : "Mein erstes Plugin" ,
-    "namespace" : "HelloWorld\\Providers\\HelloWorldServiceProvider" ,
+    "namespace" : "HelloWorld" ,
     "author" : "Christopher Pape" ,
     "type" : "Templates" ,
     "serviceProvider"   :null
