@@ -1,7 +1,7 @@
 {
-    "name" : "HelloWorld\\Providers\\HelloWorldServiceProvider" ,
+    "name" : "Hallo World" ,
     "description" : "Mein erstes Plugin" ,
-    "namespace" : "Hello World" ,
+    "namespace" : "HelloWorld\\Providers\\HelloWorldServiceProvider" ,
     "autor" : "Christopher Pape" ,
     "type" : "Vorlage" ,
     "serviceProvider"   :null
