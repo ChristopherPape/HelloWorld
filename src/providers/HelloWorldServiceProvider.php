@@ -1,6 +1,6 @@
 <?php
 
-namespace Officeherz\Providers;
+namespace HelloWorld\Providers;
 
 
 use Plenty\Plugin\ServiceProvider;

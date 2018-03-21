@@ -1,8 +1,8 @@
 {
-    "version" : "0.0.4",
+    "version" : "0.0.5",
     "name" : "HelloWorld" ,
     "description" : "Mein erstes Plugin" ,
-    "namespace" : "Officeherz" ,
+    "namespace" : "HelloWorld" ,
     "author" : "ChristopherPape" ,
     "type" : "template" ,
     "serviceProvider"   : "HelloWorld\\Providers\\HelloWorldServiceProvider"

@@ -1,6 +1,6 @@
 <?php
 
-namespace Officeherz\Controller;
+namespace HelloWorld\Controller;
 
 
 use Plenty\Plugin\Controller;
