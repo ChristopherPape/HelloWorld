@@ -1,9 +1,9 @@
 {
-    "version"           : "0.1.8",
+    "version"           : "0.1.9",
     "name"              : "HelloWorld" ,
     "description"       : "Mein erstes Plugin" ,
     "namespace"         : "HelloWorld" ,
     "author"            : "Christopher Pape" ,
     "type"              : "template" ,
-    "serviceProvider"   : "HelloWorld\\Providers\\HelloWorldServiceProvider",
+    "serviceProvider"   : "HelloWorld\\Providers\\HelloWorldServiceProvider"
 }
