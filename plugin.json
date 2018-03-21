@@ -1,18 +1,9 @@
 {
-    "version" : "0.1.1",
+    "version" : "0.1.2",
     "name" : "HelloWorld" ,
     "description" : "Mein erstes Plugin" ,
     "namespace" : "HelloWorld" ,
     "author" : "Christopher Pape" ,
     "type" : "template" ,
-    "serviceProvider"   : "HelloWorld\\Providers\\HelloWorldServiceProvider",
-    "defaultEntryPoint" :  "index.html",
-    "menuEntries" : [
-        {
-        "label" : "Hallo Welt" ,
-        "menu" : "Start" ,
-        "urlKey" : "Hallo Welt" ,
-        "entryPoint" : "index.html"
-        }
-    ]
+    "serviceProvider"   : "HelloWorld\\Providers\\HelloWorldServiceProvider"
 }
