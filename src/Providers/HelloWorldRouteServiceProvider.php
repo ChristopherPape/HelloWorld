@@ -11,7 +11,7 @@ class HelloWorldRouteServiceProvider extends RouteServiceProvider{
     public function map(Router $router){
 
         $router->get('myplugin','HelloWorld\Controllers\ContentController@sayHello');
-        #$router->get('myplugin','http://test.de');
+
     }
 }
 ?>
