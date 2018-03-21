@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld\Controller;
+namespace HelloWorld\Controllers;
 
 
 use Plenty\Plugin\Controller;
