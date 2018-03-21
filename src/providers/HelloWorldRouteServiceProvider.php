@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld\Providers;
+namespace Officeherz\Providers;
 
 
 use Plenty\Plugin\RouteServiceProvider;
