@@ -1,5 +1,5 @@
 {
-    "version" : "0.1.2",
+    "version" : "0.1.3",
     "name" : "HelloWorld" ,
     "description" : "Mein erstes Plugin" ,
     "namespace" : "HelloWorld" ,
