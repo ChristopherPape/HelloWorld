@@ -1,5 +1,5 @@
 {
-    "version" : "0.0.9",
+    "version" : "0.1.0",
     "name" : "HelloWorld" ,
     "description" : "Mein erstes Plugin" ,
     "namespace" : "HelloWorld" ,
@@ -10,9 +10,9 @@
     "menuEntries" : [
         {
         "label" : "Hallo Welt" ,
-        "Menü" : "Start" ,
+        "menu" : "Start" ,
         "urlKey" : "Hallo Welt" ,
-        "Entrypoint" : "index.html"
+        "entryPoint" : "index.html"
         }
     ]
 }
