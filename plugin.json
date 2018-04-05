@@ -1,9 +1,15 @@
 {
-    "version"           : "0.2.7",
-    "name"              : "HelloWorld" ,
-    "description"       : "Mein erstes Plugin" ,
-    "namespace"         : "HelloWorld" ,
+    "version"           : "0.0.1",
+    "name"              : "BestandsabgleichSoennecken" ,
+    "description"       : "Bestandsabgleich via Soennecken FTP Datei." ,
+    "namespace"         : "BestandSoen" ,
     "author"            : "Christopher Pape" ,
-    "type"              : "template" ,
-    "serviceProvider"   : "HelloWorld\\Providers\\HelloWorldServiceProvider"
+    "type"              : "backend " ,
+    "serviceProvider"   : "BestandSoen\\Providers\\BestandsabgleichSoenneckenProvider",
+    "containers"        : [],
+    "dataProviders"     : [],
+    "javaScriptFiles"   : [],
+    "require"           : [],
+    "dependencies"      : [],
+    "runOnBuild"        : []
 }
